@@ -1,0 +1,39 @@
+{
+    "ID": "T01",
+    "Char": {
+        "char1": "Poutou",
+        "char2": "Melenchon"
+    },
+    "lines": {
+        "line1": {
+            "char": "char2",
+            "variant": "default",
+            "text": "Comrade, the streets are on fire, the people demand justice!"
+        },
+        "line2": {
+            "char": "char1",
+            "variant": "default",
+            "text": "Yeah, but the boss still owes me three unpaid sandwiches from the factory canteen."
+        },
+        "line3": {
+            "char": "char2",
+            "variant": "outraged",
+            "text": "Sandwiches ? We are talking about the fall of neoliberalism !"
+        },
+        "line4": {
+            "char": "char1",
+            "variant": "default",
+            "text": "Exactly, first the sandwiches, then capitalism. Revolution is built in layers, like a club sandwich."
+        },
+        "line5": {
+            "char": "char2",
+            "variant": "default",
+            "text": "So I shout 'Down with the olygarchy' and you shout..."
+        },
+        "line6": {
+            "char": "char1",
+            "variant": "overjoyed",
+            "text": "'Free mayonnaise for the proletariat !!!'"
+        }
+    }
+}
